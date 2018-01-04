@@ -8,3 +8,4 @@ Date 8/12/2017
 * stdio.h is the header file resposible to handle the input
   and out of the program. printf is one such method.
 * stdio.h is a preprocessor will read more on this.
+* To compile and run a program use gcc code_file -o output_file
